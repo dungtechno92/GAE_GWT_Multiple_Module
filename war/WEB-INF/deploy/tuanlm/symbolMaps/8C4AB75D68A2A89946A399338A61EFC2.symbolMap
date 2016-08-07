@@ -1,0 +1,135 @@
+# { 0 }
+# { 'gwt.logging.firebugHandler' : 'DISABLED' , 'gwt.logging.popupHandler' : 'DISABLED' }
+# { 'gwt.logging.firebugHandler' : 'DISABLED' , 'gwt.logging.popupHandler' : 'ENABLED' }
+# { 'gwt.logging.firebugHandler' : 'ENABLED' , 'gwt.logging.popupHandler' : 'DISABLED' }
+# { 'gwt.logging.firebugHandler' : 'ENABLED' , 'gwt.logging.popupHandler' : 'ENABLED' }
+# jsName, jsniIdent, className, memberName, sourceUri, sourceLine, fragmentNumber
+JavaScriptException,,com.google.gwt.core.client.JavaScriptException,,com/google/gwt/core/client/JavaScriptException.java,46,-1
+m,com.google.gwt.core.client.JavaScriptException::$clinit()V,com.google.gwt.core.client.JavaScriptException,$clinit,com/google/gwt/core/client/JavaScriptException.java,46,0
+n,com.google.gwt.core.client.JavaScriptException::JavaScriptException(Ljava/lang/Object;) <init>,com.google.gwt.core.client.JavaScriptException,JavaScriptException,com/google/gwt/core/client/JavaScriptException.java,103,0
+l,com.google.gwt.core.client.JavaScriptException::NOT_SET,com.google.gwt.core.client.JavaScriptException,NOT_SET,com/google/gwt/core/client/JavaScriptException.java,48,-1
+a,com.google.gwt.core.client.JavaScriptException::e,com.google.gwt.core.client.JavaScriptException,e,com/google/gwt/core/client/JavaScriptException.java,87,-1
+o,com.google.gwt.core.client.JavaScriptException::getThrown()Ljava/lang/Object;,com.google.gwt.core.client.JavaScriptException,getThrown,com/google/gwt/core/client/JavaScriptException.java,145,0
+JavaScriptObject,,com.google.gwt.core.client.JavaScriptObject,,com/google/gwt/core/client/JavaScriptObject.java,28,-1
+JsArray,,com.google.gwt.core.client.JsArray,,com/google/gwt/core/client/JsArray.java,37,-1
+p,com.google.gwt.core.client.JsDate::now()D,com.google.gwt.core.client.JsDate,now,com/google/gwt/core/client/JsDate.java,95,0
+Scheduler,,com.google.gwt.core.client.Scheduler,,com/google/gwt/core/client/Scheduler.java,33,-1
+t,com.google.gwt.core.client.impl.Impl::apply(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;,com.google.gwt.core.client.impl.Impl,apply,com/google/gwt/core/client/impl/Impl.java,244,0
+u,com.google.gwt.core.client.impl.Impl::enter()Z,com.google.gwt.core.client.impl.Impl,enter,com/google/gwt/core/client/impl/Impl.java,261,0
+v,com.google.gwt.core.client.impl.Impl::entry(Lcom/google/gwt/core/client/JavaScriptObject;)Lcom/google/gwt/core/client/JavaScriptObject;,com.google.gwt.core.client.impl.Impl,entry,com/google/gwt/core/client/impl/Impl.java,69,0
+w,com.google.gwt.core.client.impl.Impl::entry0(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;,com.google.gwt.core.client.impl.Impl,entry0,com/google/gwt/core/client/impl/Impl.java,283,0
+q,com.google.gwt.core.client.impl.Impl::entryDepth,com.google.gwt.core.client.impl.Impl,entryDepth,com/google/gwt/core/client/impl/Impl.java,35,-1
+A,com.google.gwt.core.client.impl.Impl::exit(Z)V,com.google.gwt.core.client.impl.Impl,exit,com/google/gwt/core/client/impl/Impl.java,321,0
+B,com.google.gwt.core.client.impl.Impl::reportToBrowser(Ljava/lang/Object;)V,com.google.gwt.core.client.impl.Impl,reportToBrowser,com/google/gwt/core/client/impl/Impl.java,211,0
+C,com.google.gwt.core.client.impl.Impl::watchdogEntryDepthCancel(I)V,com.google.gwt.core.client.impl.Impl,watchdogEntryDepthCancel,com/google/gwt/core/client/impl/Impl.java,353,0
+r,com.google.gwt.core.client.impl.Impl::watchdogEntryDepthLastScheduled,com.google.gwt.core.client.impl.Impl,watchdogEntryDepthLastScheduled,com/google/gwt/core/client/impl/Impl.java,41,-1
+D,com.google.gwt.core.client.impl.Impl::watchdogEntryDepthRun()V,com.google.gwt.core.client.impl.Impl,watchdogEntryDepthRun,com/google/gwt/core/client/impl/Impl.java,357,0
+s,com.google.gwt.core.client.impl.Impl::watchdogEntryDepthTimerId,com.google.gwt.core.client.impl.Impl,watchdogEntryDepthTimerId,com/google/gwt/core/client/impl/Impl.java,46,-1
+JavaScriptExceptionBase,,com.google.gwt.core.client.impl.JavaScriptExceptionBase,,com/google/gwt/core/translatable/com/google/gwt/core/client/impl/JavaScriptExceptionBase.java,25,-1
+SchedulerImpl,,com.google.gwt.core.client.impl.SchedulerImpl,,com/google/gwt/core/client/impl/SchedulerImpl.java,28,-1
+G,com.google.gwt.core.client.impl.SchedulerImpl::$clinit()V,com.google.gwt.core.client.impl.SchedulerImpl,$clinit,com/google/gwt/core/client/impl/SchedulerImpl.java,28,0
+H,com.google.gwt.core.client.impl.SchedulerImpl::$flushEntryCommands(Lcom/google/gwt/core/client/impl/SchedulerImpl;)V,com.google.gwt.core.client.impl.SchedulerImpl,$flushEntryCommands,com/google/gwt/core/client/impl/SchedulerImpl.java,256,0
+I,com.google.gwt.core.client.impl.SchedulerImpl::$flushFinallyCommands(Lcom/google/gwt/core/client/impl/SchedulerImpl;)V,com.google.gwt.core.client.impl.SchedulerImpl,$flushFinallyCommands,com/google/gwt/core/client/impl/SchedulerImpl.java,272,0
+F,com.google.gwt.core.client.impl.SchedulerImpl::INSTANCE,com.google.gwt.core.client.impl.SchedulerImpl,INSTANCE,com/google/gwt/core/client/impl/SchedulerImpl.java,109,-1
+J,com.google.gwt.core.client.impl.SchedulerImpl::SchedulerImpl() <init>,com.google.gwt.core.client.impl.SchedulerImpl,SchedulerImpl,com/google/gwt/core/client/impl/SchedulerImpl.java,28,0
+a,com.google.gwt.core.client.impl.SchedulerImpl::entryCommands,com.google.gwt.core.client.impl.SchedulerImpl,entryCommands,com/google/gwt/core/client/impl/SchedulerImpl.java,242,-1
+b,com.google.gwt.core.client.impl.SchedulerImpl::finallyCommands,com.google.gwt.core.client.impl.SchedulerImpl,finallyCommands,com/google/gwt/core/client/impl/SchedulerImpl.java,243,-1
+K,com.google.gwt.core.client.impl.SchedulerImpl::push(Lcom/google/gwt/core/client/JsArray;Lcom/google/gwt/core/client/impl/SchedulerImpl$Task;)Lcom/google/gwt/core/client/JsArray;,com.google.gwt.core.client.impl.SchedulerImpl,push,com/google/gwt/core/client/impl/SchedulerImpl.java,147,0
+L,com.google.gwt.core.client.impl.SchedulerImpl::runScheduledTasks(Lcom/google/gwt/core/client/JsArray;Lcom/google/gwt/core/client/JsArray;)Lcom/google/gwt/core/client/JsArray;,com.google.gwt.core.client.impl.SchedulerImpl,runScheduledTasks,com/google/gwt/core/client/impl/SchedulerImpl.java,167,0
+SchedulerImpl$Task,,com.google.gwt.core.client.impl.SchedulerImpl$Task,,com/google/gwt/core/client/impl/SchedulerImpl.java,33,-1
+N,com.google.gwt.core.client.impl.StackTraceCreator::$clinit()V,com.google.gwt.core.client.impl.StackTraceCreator,$clinit,com/google/gwt/core/client/impl/StackTraceCreator.java,27,0
+O,com.google.gwt.core.client.impl.StackTraceCreator::captureStackTrace(Ljava/lang/Throwable;Ljava/lang/Object;)V,com.google.gwt.core.client.impl.StackTraceCreator,captureStackTrace,com/google/gwt/core/client/impl/StackTraceCreator.java,335,0
+M,com.google.gwt.core.client.impl.StackTraceCreator::collector,com.google.gwt.core.client.impl.StackTraceCreator,collector,com/google/gwt/core/client/impl/StackTraceCreator.java,359,-1
+P,com.google.gwt.core.client.impl.StackTraceCreator::extractFunctionName(Ljava/lang/String;)Ljava/lang/String;,com.google.gwt.core.client.impl.StackTraceCreator,extractFunctionName,com/google/gwt/core/client/impl/StackTraceCreator.java,382,0
+StackTraceCreator$Collector,,com.google.gwt.core.client.impl.StackTraceCreator$Collector,,com/google/gwt/core/client/impl/StackTraceCreator.java,55,-1
+StackTraceCreator$CollectorLegacy,,com.google.gwt.core.client.impl.StackTraceCreator$CollectorLegacy,,com/google/gwt/core/client/impl/StackTraceCreator.java,66,-1
+Q,com.google.gwt.core.client.impl.StackTraceCreator$CollectorLegacy::StackTraceCreator$CollectorLegacy() <init>,com.google.gwt.core.client.impl.StackTraceCreator$CollectorLegacy,StackTraceCreator$CollectorLegacy,com/google/gwt/core/client/impl/StackTraceCreator.java,66,0
+R,com.google.gwt.core.client.impl.StackTraceCreator$CollectorLegacy::collect(Ljava/lang/Object;Ljava/lang/Object;)V,com.google.gwt.core.client.impl.StackTraceCreator$CollectorLegacy,collect,com/google/gwt/core/client/impl/StackTraceCreator.java,69,0
+StackTraceCreator$CollectorModern,,com.google.gwt.core.client.impl.StackTraceCreator$CollectorModern,,com/google/gwt/core/client/impl/StackTraceCreator.java,159,-1
+S,com.google.gwt.core.client.impl.StackTraceCreator$CollectorModern::$clinit()V,com.google.gwt.core.client.impl.StackTraceCreator$CollectorModern,$clinit,com/google/gwt/core/client/impl/StackTraceCreator.java,159,0
+T,com.google.gwt.core.client.impl.StackTraceCreator$CollectorModern::collect(Ljava/lang/Object;Ljava/lang/Object;)V,com.google.gwt.core.client.impl.StackTraceCreator$CollectorModern,collect,com/google/gwt/core/client/impl/StackTraceCreator.java,172,0
+StackTraceCreator$CollectorModernNoSourceMap,,com.google.gwt.core.client.impl.StackTraceCreator$CollectorModernNoSourceMap,,com/google/gwt/core/client/impl/StackTraceCreator.java,306,-1
+U,com.google.gwt.core.client.impl.StackTraceCreator$CollectorModernNoSourceMap::StackTraceCreator$CollectorModernNoSourceMap() <init>,com.google.gwt.core.client.impl.StackTraceCreator$CollectorModernNoSourceMap,StackTraceCreator$CollectorModernNoSourceMap,com/google/gwt/core/client/impl/StackTraceCreator.java,306,0
+V,com.google.gwt.lang.Array::getClassLiteralForArray(Ljava/lang/Class;I)Ljava/lang/Class;,com.google.gwt.lang.Array,getClassLiteralForArray,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/Array.java,341,0
+W,com.google.gwt.lang.Array::initDim(Ljava/lang/Class;Lcom/google/gwt/core/client/JavaScriptObject;Lcom/google/gwt/core/client/JavaScriptObject;III)Ljava/lang/Object;,com.google.gwt.lang.Array,initDim,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/Array.java,97,0
+X,com.google.gwt.lang.Array::initValues(Ljava/lang/Class;Lcom/google/gwt/core/client/JavaScriptObject;Lcom/google/gwt/core/client/JavaScriptObject;ILjava/lang/Object;)Ljava/lang/Object;,com.google.gwt.lang.Array,initValues,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/Array.java,145,0
+Y,com.google.gwt.lang.Array::initializeArrayElementsWithDefaults(II)Ljava/lang/Object;,com.google.gwt.lang.Array,initializeArrayElementsWithDefaults,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/Array.java,285,0
+$,com.google.gwt.lang.Cast::canCast(Ljava/lang/Object;Lcom/google/gwt/core/client/JavaScriptObject;)Z,com.google.gwt.lang.Cast,canCast,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/Cast.java,40,0
+ab,com.google.gwt.lang.Cast::dynamicCast(Ljava/lang/Object;Lcom/google/gwt/core/client/JavaScriptObject;)Ljava/lang/Object;,com.google.gwt.lang.Cast,dynamicCast,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/Cast.java,57,0
+bb,com.google.gwt.lang.Cast::instanceOf(Ljava/lang/Object;Lcom/google/gwt/core/client/JavaScriptObject;)Z,com.google.gwt.lang.Cast,instanceOf,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/Cast.java,101,0
+cb,com.google.gwt.lang.Cast::maskUndefined(Ljava/lang/Object;)Ljava/lang/Object;,com.google.gwt.lang.Cast,maskUndefined,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/Cast.java,209,0
+Z,com.google.gwt.lang.Cast::stringCastMap,com.google.gwt.lang.Cast,stringCastMap,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/Cast.java,38,-1
+db,com.google.gwt.lang.ClassLiteralHolder::Lcom_google_gwt_core_client_JavaScriptException_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Lcom_google_gwt_core_client_JavaScriptException_2_classLit,com/google/gwt/core/client/JavaScriptException.java,46,-1
+eb,com.google.gwt.lang.ClassLiteralHolder::Lcom_google_gwt_core_client_JavaScriptObject_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Lcom_google_gwt_core_client_JavaScriptObject_2_classLit,com/google/gwt/core/client/JavaScriptObject.java,28,-1
+fb,com.google.gwt.lang.ClassLiteralHolder::Lcom_google_gwt_core_client_Scheduler_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Lcom_google_gwt_core_client_Scheduler_2_classLit,com/google/gwt/core/client/Scheduler.java,33,-1
+gb,com.google.gwt.lang.ClassLiteralHolder::Lcom_google_gwt_core_client_impl_JavaScriptExceptionBase_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Lcom_google_gwt_core_client_impl_JavaScriptExceptionBase_2_classLit,com/google/gwt/core/translatable/com/google/gwt/core/client/impl/JavaScriptExceptionBase.java,25,-1
+hb,com.google.gwt.lang.ClassLiteralHolder::Lcom_google_gwt_core_client_impl_SchedulerImpl_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Lcom_google_gwt_core_client_impl_SchedulerImpl_2_classLit,com/google/gwt/core/client/impl/SchedulerImpl.java,28,-1
+ib,com.google.gwt.lang.ClassLiteralHolder::Lcom_google_gwt_core_client_impl_StackTraceCreator$CollectorLegacy_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Lcom_google_gwt_core_client_impl_StackTraceCreator$CollectorLegacy_2_classLit,com/google/gwt/core/client/impl/StackTraceCreator.java,66,-1
+jb,com.google.gwt.lang.ClassLiteralHolder::Lcom_google_gwt_core_client_impl_StackTraceCreator$CollectorModernNoSourceMap_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Lcom_google_gwt_core_client_impl_StackTraceCreator$CollectorModernNoSourceMap_2_classLit,com/google/gwt/core/client/impl/StackTraceCreator.java,306,-1
+kb,com.google.gwt.lang.ClassLiteralHolder::Lcom_google_gwt_core_client_impl_StackTraceCreator$CollectorModern_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Lcom_google_gwt_core_client_impl_StackTraceCreator$CollectorModern_2_classLit,com/google/gwt/core/client/impl/StackTraceCreator.java,159,-1
+lb,com.google.gwt.lang.ClassLiteralHolder::Lcom_google_gwt_core_client_impl_StackTraceCreator$Collector_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Lcom_google_gwt_core_client_impl_StackTraceCreator$Collector_2_classLit,com/google/gwt/core/client/impl/StackTraceCreator.java,55,-1
+mb,com.google.gwt.lang.ClassLiteralHolder::Lcom_google_gwt_lang_CollapsedPropertyHolder_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Lcom_google_gwt_lang_CollapsedPropertyHolder_2_classLit,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/CollapsedPropertyHolder.java,22,-1
+nb,com.google.gwt.lang.ClassLiteralHolder::Lcom_google_gwt_lang_JavaClassHierarchySetupUtil_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Lcom_google_gwt_lang_JavaClassHierarchySetupUtil_2_classLit,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/JavaClassHierarchySetupUtil.java,24,-1
+ob,com.google.gwt.lang.ClassLiteralHolder::Lcom_google_gwt_lang_LongLibBase$LongEmul_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Lcom_google_gwt_lang_LongLibBase$LongEmul_2_classLit,com/google/gwt/lang/LongLibBase.java,26,-1
+pb,com.google.gwt.lang.ClassLiteralHolder::Lcom_google_gwt_lang_ModuleUtils_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Lcom_google_gwt_lang_ModuleUtils_2_classLit,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/ModuleUtils.java,25,-1
+qb,com.google.gwt.lang.ClassLiteralHolder::Ljava_lang_ClassCastException_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Ljava_lang_ClassCastException_2_classLit,com/google/gwt/emul/java/lang/ClassCastException.java,21,-1
+rb,com.google.gwt.lang.ClassLiteralHolder::Ljava_lang_Class_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Ljava_lang_Class_2_classLit,com/google/gwt/emul/java/lang/Class.java,32,-1
+sb,com.google.gwt.lang.ClassLiteralHolder::Ljava_lang_Exception_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Ljava_lang_Exception_2_classLit,com/google/gwt/emul/java/lang/Exception.java,23,-1
+tb,com.google.gwt.lang.ClassLiteralHolder::Ljava_lang_Object_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Ljava_lang_Object_2_classLit,com/google/gwt/emul/java/lang/Object.java,26,-1
+ub,com.google.gwt.lang.ClassLiteralHolder::Ljava_lang_RuntimeException_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Ljava_lang_RuntimeException_2_classLit,com/google/gwt/emul/java/lang/RuntimeException.java,23,-1
+vb,com.google.gwt.lang.ClassLiteralHolder::Ljava_lang_String_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Ljava_lang_String_2_classLit,com/google/gwt/emul/java/lang/String.java,33,-1
+wb,com.google.gwt.lang.ClassLiteralHolder::Ljava_lang_Throwable_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Ljava_lang_Throwable_2_classLit,com/google/gwt/emul/java/lang/Throwable.java,32,-1
+CollapsedPropertyHolder,,com.google.gwt.lang.CollapsedPropertyHolder,,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/CollapsedPropertyHolder.java,22,-1
+xb,com.google.gwt.lang.CollapsedPropertyHolder::permutationId,com.google.gwt.lang.CollapsedPropertyHolder,permutationId,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/CollapsedPropertyHolder.java,27,-1
+yb,com.google.gwt.lang.Exceptions::cacheJavaScriptException(Ljava/lang/Object;Lcom/google/gwt/core/client/JavaScriptException;)V,com.google.gwt.lang.Exceptions,cacheJavaScriptException,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/Exceptions.java,57,0
+zb,com.google.gwt.lang.Exceptions::unwrap(Ljava/lang/Object;)Ljava/lang/Object;,com.google.gwt.lang.Exceptions,unwrap,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/Exceptions.java,43,0
+Ab,com.google.gwt.lang.Exceptions::wrap(Ljava/lang/Object;)Ljava/lang/Object;,com.google.gwt.lang.Exceptions,wrap,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/Exceptions.java,28,0
+JavaClassHierarchySetupUtil,,com.google.gwt.lang.JavaClassHierarchySetupUtil,,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/JavaClassHierarchySetupUtil.java,24,-1
+Cb,com.google.gwt.lang.JavaClassHierarchySetupUtil::createSubclassPrototype(Lcom/google/gwt/core/client/JavaScriptObject;)Lcom/google/gwt/core/client/JavaScriptObject;,com.google.gwt.lang.JavaClassHierarchySetupUtil,createSubclassPrototype,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/JavaClassHierarchySetupUtil.java,122,0
+Db,com.google.gwt.lang.JavaClassHierarchySetupUtil::defineClass(Lcom/google/gwt/core/client/JavaScriptObject;Lcom/google/gwt/core/client/JavaScriptObject;Lcom/google/gwt/core/client/JavaScriptObject;)Lcom/google/gwt/core/client/JavaScriptObject;,com.google.gwt.lang.JavaClassHierarchySetupUtil,defineClass,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/JavaClassHierarchySetupUtil.java,45,0
+Eb,com.google.gwt.lang.JavaClassHierarchySetupUtil::emptyMethod()V,com.google.gwt.lang.JavaClassHierarchySetupUtil,emptyMethod,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/JavaClassHierarchySetupUtil.java,270,0
+Fb,com.google.gwt.lang.JavaClassHierarchySetupUtil::maybeGetClassLiteralFromPlaceHolder(Lcom/google/gwt/core/client/JavaScriptObject;)Lcom/google/gwt/core/client/JavaScriptObject;,com.google.gwt.lang.JavaClassHierarchySetupUtil,maybeGetClassLiteralFromPlaceHolder,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/JavaClassHierarchySetupUtil.java,133,0
+Gb,com.google.gwt.lang.JavaClassHierarchySetupUtil::modernizeBrowser()V,com.google.gwt.lang.JavaClassHierarchySetupUtil,modernizeBrowser,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/JavaClassHierarchySetupUtil.java,242,0
+Hb,com.google.gwt.lang.JavaClassHierarchySetupUtil::portableObjCreate(Lcom/google/gwt/core/client/JavaScriptObject;)Lcom/google/gwt/core/client/JavaScriptObject;,com.google.gwt.lang.JavaClassHierarchySetupUtil,portableObjCreate,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/JavaClassHierarchySetupUtil.java,113,0
+Bb,com.google.gwt.lang.JavaClassHierarchySetupUtil::prototypesByTypeId,com.google.gwt.lang.JavaClassHierarchySetupUtil,prototypesByTypeId,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/JavaClassHierarchySetupUtil.java,28,-1
+Ib,com.google.gwt.lang.JavaClassHierarchySetupUtil::typeMarkerFn()V,com.google.gwt.lang.JavaClassHierarchySetupUtil,typeMarkerFn,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/JavaClassHierarchySetupUtil.java,264,0
+Lb,com.google.gwt.lang.LongLib::boxedValues,com.google.gwt.lang.LongLib,boxedValues,com/google/gwt/lang/LongLib.java,32,-1
+Mb,com.google.gwt.lang.LongLib::fromInt(I)Lcom/google/gwt/lang/LongLibBase$LongEmul;,com.google.gwt.lang.LongLib,fromInt,com/google/gwt/lang/LongLib.java,118,0
+Qb,com.google.gwt.lang.LongLib$Const::$clinit()V,com.google.gwt.lang.LongLib$Const,$clinit,com/google/gwt/lang/LongLib.java,24,0
+Nb,com.google.gwt.lang.LongLib$Const::MAX_VALUE,com.google.gwt.lang.LongLib$Const,MAX_VALUE,com/google/gwt/lang/LongLib.java,25,-1
+Ob,com.google.gwt.lang.LongLib$Const::MIN_VALUE,com.google.gwt.lang.LongLib$Const,MIN_VALUE,com/google/gwt/lang/LongLib.java,26,-1
+Pb,com.google.gwt.lang.LongLib$Const::ZERO,com.google.gwt.lang.LongLib$Const,ZERO,com/google/gwt/lang/LongLib.java,29,-1
+Jb,com.google.gwt.lang.LongLibBase::create(I)Lcom/google/gwt/lang/LongLibBase$LongEmul;,com.google.gwt.lang.LongLibBase,create,com/google/gwt/lang/LongLibBase.java,89,0
+Kb,com.google.gwt.lang.LongLibBase::create0(III)Lcom/google/gwt/lang/LongLibBase$LongEmul;,com.google.gwt.lang.LongLibBase,create0,com/google/gwt/lang/LongLibBase.java,323,0
+ModuleUtils,,com.google.gwt.lang.ModuleUtils,,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/ModuleUtils.java,25,-1
+Sb,com.google.gwt.lang.ModuleUtils::addInitFunctions()V,com.google.gwt.lang.ModuleUtils,addInitFunctions,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/ModuleUtils.java,62,0
+Tb,com.google.gwt.lang.ModuleUtils::ensureModuleInit()V,com.google.gwt.lang.ModuleUtils,ensureModuleInit,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/ModuleUtils.java,84,0
+Ub,com.google.gwt.lang.ModuleUtils::gwtOnLoad(Lcom/google/gwt/core/client/JavaScriptObject;Lcom/google/gwt/core/client/JavaScriptObject;Lcom/google/gwt/core/client/JavaScriptObject;Lcom/google/gwt/core/client/JavaScriptObject;)V,com.google.gwt.lang.ModuleUtils,gwtOnLoad,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/ModuleUtils.java,34,0
+Rb,com.google.gwt.lang.ModuleUtils::initFnList,com.google.gwt.lang.ModuleUtils,initFnList,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/ModuleUtils.java,90,-1
+Vb,com.google.gwt.lang.ModuleUtils::registerEntry()Lcom/google/gwt/core/client/JavaScriptObject;,com.google.gwt.lang.ModuleUtils,registerEntry,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/ModuleUtils.java,70,0
+Wb,com.google.gwt.lang.ModuleUtils::setGwtProperty(Ljava/lang/String;Lcom/google/gwt/core/client/JavaScriptObject;)V,com.google.gwt.lang.ModuleUtils,setGwtProperty,com/google/gwt/dev/jjs/intrinsic/com/google/gwt/lang/ModuleUtils.java,74,0
+Xb,com.google.gwt.lang.com_00046lmt_00046hello_00046Module1__EntryMethodHolder::init()V,com.google.gwt.lang.com_00046lmt_00046hello_00046Module1__EntryMethodHolder,init,gen/com/google/gwt/lang/com_00046lmt_00046hello_00046Module1__EntryMethodHolder.java,3,0
+Class,,java.lang.Class,,com/google/gwt/emul/java/lang/Class.java,32,-1
+Zb,java.lang.Class::Class() <init>,java.lang.Class,Class,com/google/gwt/emul/java/lang/Class.java,315,0
+a,java.lang.Class::arrayLiterals,java.lang.Class,arrayLiterals,com/google/gwt/emul/java/lang/Class.java,302,-1
+$b,java.lang.Class::createClassLiteralForArray(I)Ljava/lang/Class;,java.lang.Class,createClassLiteralForArray,com/google/gwt/emul/java/lang/Class.java,54,0
+_b,java.lang.Class::createForClass(Ljava/lang/String;Ljava/lang/String;Lcom/google/gwt/core/client/JavaScriptObject;Ljava/lang/Class;)Ljava/lang/Class;,java.lang.Class,createForClass,com/google/gwt/emul/java/lang/Class.java,72,0
+ac,java.lang.Class::getClassLiteralForArray(Ljava/lang/Class;I)Ljava/lang/Class;,java.lang.Class,getClassLiteralForArray,com/google/gwt/emul/java/lang/Class.java,47,0
+bc,java.lang.Class::getPrototypeForClass(Ljava/lang/Class;)Lcom/google/gwt/core/client/JavaScriptObject;,java.lang.Class,getPrototypeForClass,com/google/gwt/emul/java/lang/Class.java,127,0
+cc,java.lang.Class::isPrimitive()Z,java.lang.Class,isPrimitive,com/google/gwt/emul/java/lang/Class.java,383,0
+dc,java.lang.Class::maybeSetClassLiteral(Lcom/google/gwt/core/client/JavaScriptObject;Ljava/lang/Class;)V,java.lang.Class,maybeSetClassLiteral,com/google/gwt/emul/java/lang/Class.java,173,0
+b,java.lang.Class::modifiers,java.lang.Class,modifiers,com/google/gwt/emul/java/lang/Class.java,279,-1
+Yb,java.lang.Class::nextSequentialId,java.lang.Class,nextSequentialId,com/google/gwt/emul/java/lang/Class.java,308,-1
+c,java.lang.Class::typeId,java.lang.Class,typeId,com/google/gwt/emul/java/lang/Class.java,300,-1
+ClassCastException,,java.lang.ClassCastException,,com/google/gwt/emul/java/lang/ClassCastException.java,21,-1
+ec,java.lang.ClassCastException::ClassCastException() <init>,java.lang.ClassCastException,ClassCastException,com/google/gwt/emul/java/lang/ClassCastException.java,23,0
+Exception,,java.lang.Exception,,com/google/gwt/emul/java/lang/Exception.java,23,-1
+Object,,java.lang.Object,,com/google/gwt/emul/java/lang/Object.java,26,-1
+k,java.lang.Object::Object() <init>,java.lang.Object,Object,com/google/gwt/emul/java/lang/Object.java,26,0
+cZ,java.lang.Object::___clazz,java.lang.Object,___clazz,com/google/gwt/emul/java/lang/Object.java,33,-1
+cM,java.lang.Object::castableTypeMap,java.lang.Object,castableTypeMap,com/google/gwt/emul/java/lang/Object.java,51,-1
+tM,java.lang.Object::typeMarker,java.lang.Object,typeMarker,com/google/gwt/emul/java/lang/Object.java,64,-1
+RuntimeException,,java.lang.RuntimeException,,com/google/gwt/emul/java/lang/RuntimeException.java,23,-1
+String,,java.lang.String,,com/google/gwt/emul/java/lang/String.java,33,-1
+Throwable,,java.lang.Throwable,,com/google/gwt/emul/java/lang/Throwable.java,32,-1
+b,java.lang.Throwable::detailMessage,java.lang.Throwable,detailMessage,com/google/gwt/emul/java/lang/Throwable.java,49,-1
